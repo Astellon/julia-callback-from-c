@@ -1,0 +1,2 @@
+gcc -lpthread -shared -fPIC async.c -o async.so
+
